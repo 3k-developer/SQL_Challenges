@@ -1,0 +1,1 @@
+alter database "GreenCycles" set timezone to 'Europe/Berlin';
